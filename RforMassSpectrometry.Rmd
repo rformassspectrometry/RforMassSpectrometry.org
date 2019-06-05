@@ -52,6 +52,6 @@ the form of ideas, documentation, code, packages, ... Please do get in
 touch (define how) to discuss any suggestions.
 
 Please note that this project is released with a [Contributor Code of
-Conduct](https://github.com/RforMassSpectrometry/RforMassSpectrometry.github.bio/blob/master/CONDUCT.md). By
+Conduct](https://github.com/RforMassSpectrometry/RforMassSpectrometry.github.bio/blob/master/CODE_OF_CONDUCT.md). By
 participating in this initiative you agree to abide by its terms.
 
