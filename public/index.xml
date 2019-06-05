@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on RforMassSpectrometry</title>
+    <link>/</link>
+    <description>Recent content in Home on RforMassSpectrometry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 19 Dec 2018 22:32:19 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The R for Mass Spectrometry Initiative</title>
+      <link>/sections/r4ms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/r4ms/</guid>
+      <description>The aim of the RforMassSpectrometry initiative is to provide efficient, thoroughly documented, tested and flexible R software for the analysis and interpretation of high throughput mass spectrometry assays, including proteomics and metabolomics experiments. The project formalises the longtime collaborative development efforts of its core members under the RforMassSpectrometry organisation to facilitate dissemination and accessibility of their work.</description>
+    </item>
+    
+    <item>
+      <title>Packages</title>
+      <link>/pkgs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pkgs/</guid>
+      <description>Installation and use Execute BiocManager::install(&amp;quot;RforMassSpectromety&amp;quot;) to install all the RforMassSpectrometry packages.
+Load the core packages with library(&amp;quot;RforMassSpectrometry&amp;quot;).
+Packages The MSnbase package &amp;hellip;
+The Spectra package &amp;hellip;
+The Features package &amp;hellip;
+Get help For questions about specific software or their usage, please refer to the software&amp;rsquo;s github issue page, or use the Bioconductor support site. For questions about the RforMassSpectrometry initiative, please &amp;hellip; either issues in the web page repository, or get a dedicated email address?</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/sections/sw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/sw/</guid>
+      <description>The RforMassSpectrometry suite of packages are available as git repositories under the RforMassSpectrometry organisation. This is the main development and collaboration platform of the project. Once the packages have reached a satisfactory level of maturity and stability, they are submitted to the Bioconductor project to integrate with existing, broader infrastructure for high throughput biology data.
+The RforMassSpectrometry initiative aims at co-developing and maintaining interoperable software to tackle a wide range of needs in computational mass spectrometry using the R language and environment.</description>
+    </item>
+    
+    <item>
+      <title>Questions</title>
+      <link>/sections/qsts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/qsts/</guid>
+      <description>For questions about specific software or their usage, please refer to the software&amp;rsquo;s github issue page, or use the Bioconductor support site. For questions about the RforMassSpectrometry initiative, please &amp;hellip; either issues in the web page repository, or get a dedicated email address?</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>/sections/who/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/who/</guid>
+      <description>Current core members include the developers of the MSnbase, from which this initiative rose.
+ Laurent Gatto, UCLouvain, Belgium Sebastien Gibb, University Medicine Greifswald, Germany Johannes Rainer, Eurac Research, Italy.  </description>
+    </item>
+    
+    <item>
+      <title>How game websites can help you live a better life</title>
+      <link>/posts/game-websites/</link>
+      <pubDate>Wed, 19 Dec 2018 22:32:19 +0100</pubDate>
+      
+      <guid>/posts/game-websites/</guid>
+      <description>How to cheat at dish reviews and get away with it. The 6 best dish review twitter feeds to follow. The best ways to utilize minute meals. The best ways to utilize safe food handling tips. The best ways to utilize safe food handling tips. 17 facts about food processors that will impress your friends. How cooking healthy food is making the world a better place. Why you&amp;rsquo;ll never succeed at healthy eating facts.</description>
+    </item>
+    
+    <item>
+      <title>16 things that won&#39;t happen in free songs</title>
+      <link>/posts/16-things-free-songs/</link>
+      <pubDate>Mon, 17 Dec 2018 22:21:42 +0100</pubDate>
+      
+      <guid>/posts/16-things-free-songs/</guid>
+      <description>5 ways country song ringtones can make you rich. Why country music festivals will change your life. The unconventional guide to music notes. Why our world would end if music videos disappeared. 8 insane (but true) things about top country songs. How twitter can teach you about popular songs. 13 facts about latin music videos that&amp;rsquo;ll keep you up at night. Why do people think free dances are a good idea?</description>
+    </item>
+    
+    <item>
+      <title>How architects aren&#39;t as bad as you think</title>
+      <link>/posts/bad-architects/</link>
+      <pubDate>Sun, 16 Dec 2018 22:34:04 +0100</pubDate>
+      
+      <guid>/posts/bad-architects/</guid>
+      <description>6 uses for living room decors. Why living room ideas are killing you. The oddest place you will find decorating ideas. Why the world would end without apartment guides. 12 things that won&amp;rsquo;t happen in interior design ideas. How twitter can teach you about bathroom designs. The 12 best floor plan youtube videos. 9 bs facts about living room decors everyone thinks are true. The only home builder resources you will ever need.</description>
+    </item>
+    
+    <item>
+      <title>Why preventative medicines are afraid of the truth</title>
+      <link>/posts/preventative-medicines/</link>
+      <pubDate>Fri, 07 Dec 2018 22:30:56 +0100</pubDate>
+      
+      <guid>/posts/preventative-medicines/</guid>
+      <description>Why vaccination schedules will change your life. How weight loss meal plans can help you live a better life. How not knowing fitness equipment makes you a rookie. The 18 best resources for fitness equipment. 9 problems with home health care products. 17 amazing health care provider picturesi. How nutrition facts make you a better lover. The oddest place you will find home health care products. The 15 best health question twitter feeds to follow.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/posts/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/posts/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Contributing</title>
+      <link>/sections/contrib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/contrib/</guid>
+      <description>Contributions to the initiative are more than welcome, whether under the form of ideas, documentation, code, packages, &amp;hellip; Please do get in touch (define how) to discuss any suggestions.
+As contributors and maintainers of the RforMassSpectrometry initiative, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities. We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, or religion.</description>
+    </item>
+    
+  </channel>
+</rss>

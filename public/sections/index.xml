@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on RforMassSpectrometry</title>
+    <link>/sections/</link>
+    <description>Recent content in Sections on RforMassSpectrometry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The R for Mass Spectrometry Initiative</title>
+      <link>/sections/r4ms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/r4ms/</guid>
+      <description>The aim of the RforMassSpectrometry initiative is to provide efficient, thoroughly documented, tested and flexible R software for the analysis and interpretation of high throughput mass spectrometry assays, including proteomics and metabolomics experiments. The project formalises the longtime collaborative development efforts of its core members under the RforMassSpectrometry organisation to facilitate dissemination and accessibility of their work.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/sections/sw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/sw/</guid>
+      <description>The RforMassSpectrometry suite of packages are available as git repositories under the RforMassSpectrometry organisation. This is the main development and collaboration platform of the project. Once the packages have reached a satisfactory level of maturity and stability, they are submitted to the Bioconductor project to integrate with existing, broader infrastructure for high throughput biology data.
+The RforMassSpectrometry initiative aims at co-developing and maintaining interoperable software to tackle a wide range of needs in computational mass spectrometry using the R language and environment.</description>
+    </item>
+    
+    <item>
+      <title>Questions</title>
+      <link>/sections/qsts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/qsts/</guid>
+      <description>For questions about specific software or their usage, please refer to the software&amp;rsquo;s github issue page, or use the Bioconductor support site. For questions about the RforMassSpectrometry initiative, please &amp;hellip; either issues in the web page repository, or get a dedicated email address?</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>/sections/who/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/who/</guid>
+      <description>Current core members include the developers of the MSnbase, from which this initiative rose.
+ Laurent Gatto, UCLouvain, Belgium Sebastien Gibb, University Medicine Greifswald, Germany Johannes Rainer, Eurac Research, Italy.  </description>
+    </item>
+    
+    <item>
+      <title>Contributing</title>
+      <link>/sections/contrib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/contrib/</guid>
+      <description>Contributions to the initiative are more than welcome, whether under the form of ideas, documentation, code, packages, &amp;hellip; Please do get in touch (define how) to discuss any suggestions.
+As contributors and maintainers of the RforMassSpectrometry initiative, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities. We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, or religion.</description>
+    </item>
+    
+  </channel>
+</rss>

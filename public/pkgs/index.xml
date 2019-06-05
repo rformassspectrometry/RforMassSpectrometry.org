@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Packages on R for Mass Spectrometry</title>
+    <link>/pkgs/</link>
+    <description>Recent content in Packages on R for Mass Spectrometry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/pkgs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MSnbase</title>
+      <link>/pkgs/msnbase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pkgs/msnbase/</guid>
+      <description>The MSnbase package &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Featues</title>
+      <link>/pkgs/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pkgs/features/</guid>
+      <description>The Features packages &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Spectra</title>
+      <link>/pkgs/spectra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pkgs/spectra/</guid>
+      <description>The Spectra package &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

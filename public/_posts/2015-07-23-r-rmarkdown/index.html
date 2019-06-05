@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, noarchive" />
+	<title>RforMassSpectrometry - Hello R Markdown</title>
+	<link rel="icon" href="/favicon.ico" />
+	<meta name="description" content="R software for the analysis and interpretation of high throughput mass spectrometry assays." />
+
+	<meta name="generator" content="Hugo 0.55.6" />
+
+	
+
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Hello R Markdown"/>
+<meta name="twitter:description" content="R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu."/>
+
+	<meta property="og:title" content="Hello R Markdown" />
+<meta property="og:description" content="R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/_posts/2015-07-23-r-rmarkdown/" />
+<meta property="article:published_time" content="2015-07-23T21:13:14-05:00"/>
+<meta property="article:modified_time" content="2015-07-23T21:13:14-05:00"/>
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/bundle.min.css">
+</head>
+<body><header class="header">
+    <div class="header__title">
+        <a href="/" class="header__title__link" alt="Home">
+            
+            <img src="/logo.png" class="header__title__logo" alt="RforMassSpectrometry">
+            
+        </a>
+    </div>
+
+    <nav class="menu" aria-label="menu">
+    <ul class="menu__items" aria-label="menu">
+        
+        
+        <li class="menu__items__item" aria-label="Home">
+            <a href="/" class="menu__items__item__link "
+                alt="Home" role="menuitem">
+                Home
+            </a>
+        </li>
+        
+        <li class="menu__items__item" aria-label="Packages">
+            <a href="/pkgs/" class="menu__items__item__link "
+                alt="Packages" role="menuitem">
+                Packages
+            </a>
+        </li>
+        
+        <li class="menu__items__item" aria-label="Contact">
+            <a href="/contact/" class="menu__items__item__link "
+                alt="Contact" role="menuitem">
+                Contact
+            </a>
+        </li>
+        
+        <li class="menu__items__item" aria-label="Blog">
+            <a href="/_posts/" class="menu__items__item__link "
+                alt="Blog" role="menuitem">
+                Blog
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+    <nav class="hamburger-menu" aria-label="mobile-menu">
+    <div class="toggle">
+        <input type="checkbox" class="hamburger__toggle" id="hamburgerToggle" name="hamburger toggle" aria-label="Hamburguer menu">
+        <label class="hamburger__toggle__icon" for="hamburgerToggle">
+            <i class="fas fa-bars"></i>
+        </label>
+
+        <ul class="hamburger__items" aria-label="mobile-menu">
+            
+            <li class="hamburger__items__item" aria-label="Home">
+                <a href="/" class="hamburger__items__item__link" alt="Home" role="menuitem">
+                    Home
+                </a>
+            </li>
+            
+            <li class="hamburger__items__item" aria-label="Packages">
+                <a href="/pkgs/" class="hamburger__items__item__link" alt="Packages" role="menuitem">
+                    Packages
+                </a>
+            </li>
+            
+            <li class="hamburger__items__item" aria-label="Contact">
+                <a href="/contact/" class="hamburger__items__item__link" alt="Contact" role="menuitem">
+                    Contact
+                </a>
+            </li>
+            
+            <li class="hamburger__items__item" aria-label="Blog">
+                <a href="/_posts/" class="hamburger__items__item__link" alt="Blog" role="menuitem">
+                    Blog
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+</nav>
+</header>
+<article class="post">
+    <header class="post__header">
+        <h1 class="post__title">Hello R Markdown</h1>
+        
+        
+        
+        <p class="post__date date">
+            Thursday, Jul, 2015 By Frida Gomam.
+        </p>
+        
+        
+    </header>
+
+    
+    <main class="post__body">
+        
+
+
+<div id="r-markdown" class="section level2">
+<h2>R Markdown</h2>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<pre class="r"><code>summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>
+</div>
+<div id="including-plots" class="section level2">
+<h2>Including Plots</h2>
+<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span id="fig:pie"></span>
+<img src="/posts/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
+</div>
+
+    </main>
+    
+
+    
+    <footer class="post__footer">
+        
+<ul class="tags">
+    
+    
+    <li class="tags__tag">
+        <a href="/tags/R%20Markdown/" class="tag__link" alt="R Markdown.">
+            #R Markdown
+        </a>
+    </li>
+    
+    
+    <li class="tags__tag">
+        <a href="/tags/plot/" class="tag__link" alt="plot.">
+            #plot
+        </a>
+    </li>
+    
+    
+    <li class="tags__tag">
+        <a href="/tags/regression/" class="tag__link" alt="regression.">
+            #regression
+        </a>
+    </li>
+    
+</ul>
+
+
+    </footer>
+    
+</article>
+<footer class="footer">
+    
+    
+    
+
+    
+    <div class="footer__social">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <a href="https://github.com/RforMassSpectrometry" class="footer__social__link" alt="github" target="_blank" aria-label="https://github.com/RforMassSpectrometry" rel="noopener">
+            <span>
+                <i class="fab fa-github"></i>
+            </span>
+        </a>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <a href="https://twitter.com/search?q=%23rformassspec" class="footer__social__link" alt="twitter" target="_blank" aria-label="https://twitter.com/search?q=%23rformassspec" rel="noopener">
+            <span>
+                <i class="fab fa-twitter"></i>
+            </span>
+        </a>
+        
+        
+        
+        
+        
+        
+    </div>
+    
+    
+
+    <address class="footer__contact">
+        
+
+        
+
+        
+
+        
+    </address>
+
+    <div class="copy">
+        
+        <p>© 2019 - RforMassSpectrometry</p>
+        
+    </div>
+
+    
+
+
+
+
+<script src="/js/bundle.min.9aa161734d8d364fbafdf8ee2def390bf097c69464c1561c1b8e7eb8768017fe67cf60902c99bc1c798215f71c0e4a3c7eabc215d0149fe64c91764fc445f5d6.js"></script>
+
+
+
+
+
+
+
+
+
+
+<script
+	defer
+	src="https://use.fontawesome.com/releases/v5.7.2/js/all.js"
+    integrity="sha384-0pzryjIRos8mFBWMzSSZApWtPl/5&#43;&#43;eIfzYmTgBBmXYdhvxPc&#43;XcFEk&#43;zJwDgWbP"
+	crossorigin="anonymous"
+></script>
+
+
+</footer></body>
+
+</html>
