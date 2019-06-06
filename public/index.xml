@@ -27,8 +27,8 @@
       <guid>/pkgs/</guid>
       <description>Installation and use Execute BiocManager::install(&amp;quot;RforMassSpectromety/RforMassSpectromety&amp;quot;) to install all the RforMassSpectrometry packages.
 Load the core packages with library(&amp;quot;RforMassSpectrometry&amp;quot;).
-Packages RforMassSpectrometry The RforMassSpectrometry is a meta-package that is used to manage the RforMassSpectrometry suite and core package versions in a coherent way. Users will rely on this package to install and manage the other packages.
-MsExperiment The MsExperiment package provdes the infrastructure to store and manage all aspects related to a complete proteomics or metabolomics mass spectrometry experiment.</description>
+Packages  RforMassSpectrometry is a meta-package that is used to manage the R for Mass Spectrometry suite and core package versions in a coherent way. Users will rely on this package to install and manage the other packages.
+   MsExperiment package provdes the infrastructure to store and manage all aspects related to a complete proteomics or metabolomics mass spectrometry experiment.</description>
     </item>
     
     <item>
@@ -49,7 +49,8 @@ The RforMassSpectrometry initiative aims at co-developing and maintaining intero
       <guid>/contact/</guid>
       <description>The RforMassSpectrometry initiative For general enquiries about the initiative, you can open an issue or use the contact email below.
 We plan to add additional discussion channels in the near future.
-Software and usage For questions about specific software or their usage, please refer to the software&amp;rsquo;s github issue page, or use the Bioconductor support site. For questions about the RforMassSpectrometry initiative, please &amp;hellip; either issues in the web page repository, or get a dedicated email address?</description>
+Software and usage For questions about specific software or their usage, please refer to the software&amp;rsquo;s github issue page, or use the Bioconductor support site.
+Website For questions or comments about the website, please refer to the Github repo.</description>
     </item>
     
     <item>
