@@ -2,7 +2,7 @@
 
 # RforMassSpectrometry.org
 
-This repo is the source of https://RforMassSpectrometry.org
+This repo is the source of http://www.RforMassSpectrometry.org
 
 - If you spot any small problems with the website, please feel
   empowered to fix them directly with a PR.
