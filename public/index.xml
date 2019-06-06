@@ -27,12 +27,8 @@
       <guid>/pkgs/</guid>
       <description>Installation and use Execute BiocManager::install(&amp;quot;RforMassSpectromety&amp;quot;) to install all the RforMassSpectrometry packages.
 Load the core packages with library(&amp;quot;RforMassSpectrometry&amp;quot;).
-Packages The MSnbase package &amp;hellip;
-The MsExperiment package &amp;hellip;
-The Spectra package &amp;hellip;
-The Features package &amp;hellip;
-The unimod package &amp;hellip;
-Get help For questions about specific software or their usage, please refer to the software&amp;rsquo;s github issue page, or use the Bioconductor support site. For questions about the RforMassSpectrometry initiative, please &amp;hellip; either issues in the web page repository, or get a dedicated email address?</description>
+Packages RforMassSpectrometry The RforMassSpectrometry is a meta-package that is used to manage the RforMassSpectrometry suite and core package versions in a coherent way. Users will rely on this package to install and manage the other packages.
+MsExperiment The MsExperiment package provdes the infrastructure to store and manage all aspects related to a complete proteomics or metabolomics mass spectrometry experiment.</description>
     </item>
     
     <item>
@@ -62,7 +58,7 @@ Software and usage For questions about specific software or their usage, please 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/who/</guid>
-      <description>Current core members include the developers of the MSnbase, from which this initiative rose.
+      <description>Current core members include the developers of the MSnbase package, from which this initiative rose.
  Laurent Gatto, UCLouvain, Belgium Sebastien Gibb, University Medicine Greifswald, Germany Johannes Rainer, Eurac Research, Italy.  </description>
     </item>
     
