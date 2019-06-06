@@ -12,11 +12,11 @@ theme = "hugo-terrassa-theme"
     description = "R software for the analysis and interpretation of high throughput mass spectrometry assays."
     favicon = "favicon.ico"
     logo = "logo.png"
-    
+
 [params.hero]
     textColor = "" # Empty for default color
 
-[params.cta] # Call To Action 
+[params.cta] # Call To Action
     show = true
     cta = "Contact"
     link = "contact" # Relative URL
@@ -30,18 +30,18 @@ theme = "hugo-terrassa-theme"
 
 [params.form] # Contact form
     netlify = true
-    action = "https://formspree.io/laurent.gatto@gmail.com"
-    method = "POST"
-    inputNameName = "name"
-    inputNameLabel = "Name"
-    inputNamePlaceholder = "Your name"
-    inputEmailName = "email"
-    inputEmailLabel = "Email"
-    inputEmailPlaceholder = "Your email"
-    inputMsgName = "message"
-    inputMsgLabel = "Write something"
-    inputMsgLength = 750
-    inputSubmitValue = "Send"
+    # action = "https://formspree.io/laurent.gatto@gmail.com"
+    # method = "POST"
+    # inputNameName = "name"
+    # inputNameLabel = "Name"
+    # inputNamePlaceholder = "Your name"
+    # inputEmailName = "email"
+    # inputEmailLabel = "Email"
+    # inputEmailPlaceholder = "Your email"
+    # inputMsgName = "message"
+    # inputMsgLabel = "Write something"
+    # inputMsgLength = 750
+    # inputSubmitValue = "Send"
 
 [params.posts]
     showAuthor = true
@@ -50,10 +50,10 @@ theme = "hugo-terrassa-theme"
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = ""
+    email = "contact-cbio@uclouvain.be"
     phone = ""
     skype = ""
-    address = ""
+    address = "de Duve Institue, UCLouvain, Belgium"
 
 [params.social]
     twitter = "https://twitter.com/search?q=%23rformassspec"
@@ -76,20 +76,20 @@ theme = "hugo-terrassa-theme"
 
 [privacy]
     [privacy.googleAnalytics]
-        anonymizeIP = true
-        disable = false
-        respectDoNotTrack = true
-        useSessionStorage = false
+	anonymizeIP = true
+	disable = false
+	respectDoNotTrack = true
+	useSessionStorage = false
     [privacy.instagram]
-        disable = false
-        simple = false
+	disable = false
+	simple = false
     [privacy.twitter]
-        disable = false
-        enableDNT = true
-        simple = false
+	disable = false
+	enableDNT = true
+	simple = false
     [privacy.vimeo]
-        disable = false
-        simple = false
+	disable = false
+	simple = false
     [privacy.youtube]
-        disable = false
-        privacyEnhanced = true
+	disable = false
+	privacyEnhanced = true

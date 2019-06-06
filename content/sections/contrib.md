@@ -6,8 +6,8 @@ nweight: 5
 ---
 
 Contributions to the initiative are more than welcome, whether under
-the form of ideas, documentation, code, packages, ... Please do get in
-touch (define how) to discuss any suggestions.
+the form of ideas, documentation, code, packages, ... Please do [get in
+touch](contact) to discuss any suggestions.
 
 As contributors and maintainers of the *RforMassSpectrometry*
 initiative, we pledge to respect all people who contribute through

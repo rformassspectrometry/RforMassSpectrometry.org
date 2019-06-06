@@ -16,8 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/r4ms/</guid>
-      <description>The aim of the RforMassSpectrometry initiative is to provide efficient, thoroughly documented, tested and flexible R software for the analysis and interpretation of high throughput mass spectrometry assays, including proteomics and metabolomics experiments. The project formalises the longtime collaborative development efforts of its core members under the RforMassSpectrometry organisation to facilitate dissemination and accessibility of their work.
- Contact us  </description>
+      <description>The aim of the RforMassSpectrometry initiative is to provide efficient, thoroughly documented, tested and flexible R software for the analysis and interpretation of high throughput mass spectrometry assays, including proteomics and metabolomics experiments. The project formalises the longtime collaborative development efforts of its core members under the RforMassSpectrometry organisation to facilitate dissemination and accessibility of their work.</description>
     </item>
     
     <item>
@@ -45,12 +44,15 @@ The RforMassSpectrometry initiative aims at co-developing and maintaining intero
     </item>
     
     <item>
-      <title>Questions</title>
-      <link>/sections/qsts/</link>
+      <title>Contact</title>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sections/qsts/</guid>
-      <description>For questions about specific software or their usage, please refer to the software&amp;rsquo;s github issue page, or use the Bioconductor support site. For questions about the RforMassSpectrometry initiative, please &amp;hellip; either issues in the web page repository, or get a dedicated email address?</description>
+      <guid>/contact/</guid>
+      <description>The RforMassSpectrometry initiative For general enquiries about the initiative, you can open an issue or use the contact email below.
+We plan
+Software and usage For questions about specific software or their usage, please refer to the software&amp;rsquo;s github issue page, or use the Bioconductor support site. For questions about the RforMassSpectrometry initiative, please &amp;hellip; either issues in the web page repository, or get a dedicated email address?
+Website For questions or comments about the website, please refer to the Github repo.</description>
     </item>
     
     <item>
@@ -116,7 +118,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/contrib/</guid>
-      <description>Contributions to the initiative are more than welcome, whether under the form of ideas, documentation, code, packages, &amp;hellip; Please do get in touch (define how) to discuss any suggestions.
+      <description>Contributions to the initiative are more than welcome, whether under the form of ideas, documentation, code, packages, &amp;hellip; Please do get in touch to discuss any suggestions.
 As contributors and maintainers of the RforMassSpectrometry initiative, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities. We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, or religion.</description>
     </item>
     
