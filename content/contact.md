@@ -13,7 +13,7 @@ For general enquiries about the initiative, you can [open an
 issue](https://github.com/RforMassSpectrometry/RforMassSpectrometry.org/issues)
 or use the contact email below.
 
-We plan
+We plan to add additional discussion channels in the near future.
 
 ## Software and usage
 
