@@ -28,8 +28,10 @@
       <description>Installation and use Execute BiocManager::install(&amp;quot;RforMassSpectromety&amp;quot;) to install all the RforMassSpectrometry packages.
 Load the core packages with library(&amp;quot;RforMassSpectrometry&amp;quot;).
 Packages The MSnbase package &amp;hellip;
+The MsExperiment package &amp;hellip;
 The Spectra package &amp;hellip;
 The Features package &amp;hellip;
+The unimod package &amp;hellip;
 Get help For questions about specific software or their usage, please refer to the software&amp;rsquo;s github issue page, or use the Bioconductor support site. For questions about the RforMassSpectrometry initiative, please &amp;hellip; either issues in the web page repository, or get a dedicated email address?</description>
     </item>
     
