@@ -12,3 +12,9 @@ assays, including proteomics and metabolomics experiments. The project
 formalises the longtime collaborative development efforts of its core
 members under the RforMassSpectrometry organisation to facilitate
 dissemination and accessibility of their work.
+
+<form method="POST" action="https://formspree.io/laurent.gatto@gmail.com">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Test Message"></textarea>
+  <button type="submit">Contact us</button>
+</form>
