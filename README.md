@@ -22,3 +22,5 @@ This repo (and resulting website) is licensed as CC BY-SA.
 - The theme is based on
   [hugo-terrassa-theme](https://github.com/danielkvist/hugo-terrassa-theme/)
   by `danielkvist`.
+- The source the website is hosted on [Github](https://github.com/rformassspectrometry/RforMassSpectrometry.org).
+- The site is deplayed by [netlify.com](https://www.netlify.com/)/
