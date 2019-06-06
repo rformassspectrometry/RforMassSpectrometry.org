@@ -9,9 +9,12 @@ weight: 2
 
 ## Installation and use
 
-Execute `BiocManager::install("RforMassSpectromety")` to install all the *RforMassSpectrometry* packages.
+Execute
+`BiocManager::install("RforMassSpectromety/RforMassSpectromety")` to
+install all the *RforMassSpectrometry* packages.
 
 Load the core packages with `library("RforMassSpectrometry")`.
+
 
 ## Packages
 
@@ -47,7 +50,9 @@ proteomics and metabolomics experiments.
 
 ### unimod
 
-The [`unimod`](https://github.com/rformassspectrometry/unimod) package 
+The [`unimod`](https://github.com/rformassspectrometry/unimod) package
+provides an interface to the community supported database for amino
+acide/protein modifications using mass spectrometry.
 
 ### MSnbase
 
