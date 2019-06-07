@@ -28,7 +28,7 @@
       <description>Installation and use Execute BiocManager::install(&amp;quot;RforMassSpectromety/RforMassSpectromety&amp;quot;) to install all the RforMassSpectrometry packages.
 Load the core packages with library(&amp;quot;RforMassSpectrometry&amp;quot;).
 Packages  RforMassSpectrometry is a meta-package that is used to manage the R for Mass Spectrometry suite and core package versions in a coherent way. Users will rely on this package to install and manage the other packages.
-   MsExperiment package provdes the infrastructure to store and manage all aspects related to a complete proteomics or metabolomics mass spectrometry experiment.</description>
+   The MsExperiment package provdes the infrastructure to store and manage all aspects related to a complete proteomics or metabolomics mass spectrometry experiment.</description>
     </item>
     
     <item>
