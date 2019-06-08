@@ -1,19 +1,19 @@
 /* From the tidyverse.org css */
 
-.package-section .packages .package {
-    position: relative;
-    height: 200px;
-    overflow-y: hidden;
-    background-size: 190px 215px;
-    background-repeat: no-repeat;
-    background-position: left top;
-    background-image: url(images/tidy-packages-back-01.svg); }
+/* .package-section .packages .package { */
+/*     position: relative; */
+/*     height: 200px; */
+/*     overflow-y: hidden; */
+/*     background-size: 190px 215px; */
+/*     background-repeat: no-repeat; */
+/*     background-position: left top; */
+/*     background-image: url(images/tidy-packages-back-01.svg); } */
 
-.package-section .packages .package:first-of-type {
-    background-image: url(images/tidy-packages-back-02.svg); }
+/* .package-section .packages .package:first-of-type { */
+/*     background-image: url(images/tidy-packages-back-02.svg); } */
 
-.package-section .packages .package:last-of-type {
-    background-image: url(images/tidy-packages-back-03.svg); }
+/* .package-section .packages .package:last-of-type { */
+/*     background-image: url(images/tidy-packages-back-03.svg); } */
 
 
 .package-section .packages .package-left {
@@ -23,7 +23,7 @@
     background-size: 190px 215px;
     background-repeat: no-repeat;
     background-position: left top;
-    background-image: url(images/prot-backbone-02.svg); }
+    background-image: url(images/prot-backbone-left.svg); }
 
 .package-section .packages .package-right {
     position: relative;
@@ -32,7 +32,7 @@
     background-size: 190px 215px;
     background-repeat: no-repeat;
     background-position: left top;
-    background-image: url(images/prot-backbone-01.svg); }
+    background-image: url(images/prot-backbone-right.svg); }
 
 .package-section .packages .package-right:last-of-type {
     background-image: url(images/prot-backbone-Cterm.svg); }

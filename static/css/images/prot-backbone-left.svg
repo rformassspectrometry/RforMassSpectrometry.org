@@ -11,7 +11,7 @@
    data-name="Layer 1"
    viewBox="0 0 190 215"
    version="1.1"
-   sodipodi:docname="prot-backbone-Nterm.svg"
+   sodipodi:docname="prot-backbone-left.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata17">
@@ -38,8 +38,8 @@
      id="namedview15"
      showgrid="false"
      inkscape:zoom="2.6637697"
-     inkscape:cx="79.487322"
-     inkscape:cy="154.45028"
+     inkscape:cx="134.12676"
+     inkscape:cy="91.100206"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -94,8 +94,8 @@
        x="132.26282"
        y="146.63988">N</tspan></text>
   <path
-     style="fill:#c8c8c8;stroke:#c8c8c8;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-     d="m 142.46078,33.294557 v 28.93108"
+     style="fill:#c8c8c8;stroke:#c8c8c8;stroke-width:1.5001663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+     d="m 142.46078,-8.991616 v 69"
      id="path4770"
      inkscape:connector-curvature="0" />
   <path
@@ -167,25 +167,4 @@
      d="m 116.07992,74.79082 h 14.78244"
      id="path902-5"
      inkscape:connector-curvature="0" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c8c8c8;fill-opacity:1;stroke:#c8c8c8;stroke-opacity:1;"
-     x="132.53781"
-     y="33.197449"
-     id="text4653-5"><tspan
-       sodipodi:role="line"
-       id="tspan4651-3"
-       x="132.53781"
-       y="33.197449">NH</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c8c8c8;fill-opacity:1;stroke:#c8c8c8;stroke-opacity:1;"
-     x="170.57007"
-     y="37.461426"
-     id="text873"><tspan
-       sodipodi:role="line"
-       id="tspan871"
-       x="170.57007"
-       y="37.461426"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c8c8c8;fill-opacity:1;stroke:#c8c8c8;stroke-opacity:1;">3</tspan></text>
 </svg>
