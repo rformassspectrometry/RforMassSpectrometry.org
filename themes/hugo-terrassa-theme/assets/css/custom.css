@@ -34,7 +34,11 @@
     background-position: left top;
     background-image: url(images/prot-backbone-01.svg); }
 
+.package-section .packages .package-right:last-of-type {
+    background-image: url(images/prot-backbone-Cterm.svg); }
 
+.package-section .packages .package-left:first-of-type {
+    background-image: url(images/prot-backbone-Nterm.svg); }
 
 .package-section .packages .package-left .package-image-left {
     position: absolute;
