@@ -23,14 +23,14 @@ Load the core packages with `library("RforMassSpectrometry")`.
 <div class="packages">
 
 <div class="package">
-<img class="package-image" src="/images/hex-R4MS.png" alt=""></img>
+<img class="package-image-left" src="/images/hex-R4MS.png" alt=""></img>
 <div class="package-info"><p><b><a href="https://github.com/rformassspectrometry/RforMassSpectrometry">RforMassSpectrometry</a></b>
 is a meta-package that is used to manage the R for Mass Spectrometry
 suite and core package versions in a coherent way. Users will rely on
 this package to install and manage the other packages.</p> </div> </div>
 
 <div class="package">
-<img class="package-image" src="/images/hex-R4MSbeam.png" alt=""></img>
+<img class="package-image-right" src="/images/hex-R4MSbeam.png" alt=""></img>
 <div class="package-info"><p>The <b><a href="https://github.com/rformassspectrometry/MsExperiment">MsExperiment</a></b>
 package provdes the infrastructure to store and manage all aspects
 related to a complete proteomics or metabolomics mass spectrometry
@@ -38,7 +38,7 @@ experiment. It relieves on the other RforMassSpectrometry core
 packages for the data crunching. </p> </div> </div>
 
 <div class="package">
-<img class="package-image" src="/images/hex-R4MSsegm.png" alt=""></img>
+<img class="package-image-left" src="/images/hex-R4MSsegm.png" alt=""></img>
 <div class="package-info"><p>The <b><a href="https://github.com/rformassspectrometry/Spectra">Spectra</a></b>
 package provides base classes and processing methods for raw mass
 spectrometry data. It is designed with efficiency, both in terms of
@@ -47,7 +47,7 @@ different types of formats. </p> </div> </div>
 
 
 <div class="package">
-<img class="package-image" src="/images/hex-R4MScube.png" alt=""></img>
+<img class="package-image-right" src="/images/hex-R4MScube.png" alt=""></img>
 <div class="package-info"><p>The <b><a href="https://github.com/rformassspectrometry/Features">Features</a></b>
 package offers the infrastrucutre to manage and process quantitative
 features for high-throughput mass spectrometry assays, including
@@ -55,7 +55,7 @@ proteomics and metabolomics experiments.</p> </div> </div>
 
 
 <div class="package">
-<img class="package-image" src="/images/hex-MSnbase.png" alt=""></img>
+<img class="package-image-left" src="/images/hex-MSnbase.png" alt=""></img>
 <div class="package-info"><p>The <b><a href="https://github.com/lgatto/MSnbase">MSnbase</a></b>
 package, developed and maintained since 2010 and available from <a
 href="http://bioconductor.org/packages/devel/bioc/html/MSnbase.html">Bioconductor</a>
@@ -69,7 +69,7 @@ suite that will, eventually, supersede MSnbase.</p> </div> </div>
 
 
 <div class="package">
-<img class="package-image" src="/images/hex-R4MSbord.png" alt=""></img>
+<img class="package-image-right" src="/images/hex-R4MSbord.png" alt=""></img>
 <div class="package-info"><p>The <b><a href="https://github.com/rformassspectrometry/unimod">unimod</a></b>
 package provides an interface to the community supported database for
 amino acide/protein modifications using mass spectrometry.</p> </div> </div>
