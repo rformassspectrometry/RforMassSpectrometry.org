@@ -16,15 +16,27 @@
     background-image: url(images/tidy-packages-back-03.svg); }
 
 
-.package-section .packages .package .package-image {
-    position: absolute;
-    top: 6px;
-    left: 10px;
-    width: 120px;
-    height: 139px;
-    border: none; }
+.package-section .packages .package-left {
+    position: relative;
+    height: 200px;
+    overflow-y: hidden;
+    background-size: 190px 215px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-image: url(images/prot-backbone-02.svg); }
 
-.package-section .packages .package .package-image-left {
+.package-section .packages .package-right {
+    position: relative;
+    height: 200px;
+    overflow-y: hidden;
+    background-size: 190px 215px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-image: url(images/prot-backbone-01.svg); }
+
+
+
+.package-section .packages .package-left .package-image-left {
     position: absolute;
     top: 6px;
     left: 1px;
@@ -32,7 +44,7 @@
     height: 139px;
     border: none; }
 
-.package-section .packages .package .package-image-right {
+.package-section .packages .package-right .package-image-right {
     position: absolute;
     top: 6px;
     left: 60px;
@@ -40,5 +52,16 @@
     height: 139px;
     border: none; }
 
-.package-section .packages .package .package-info {
+.package-section .packages .package-left .package-info {
     margin: 20px 0 0 210px; }
+
+.package-section .packages .package-right .package-info {
+    margin: 20px 0 0 210px; }
+
+.package-section .packages .package .package-image {
+    position: absolute;
+    top: 6px;
+    left: 10px;
+    width: 120px;
+    height: 139px;
+    border: none; }
