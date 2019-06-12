@@ -10,5 +10,5 @@ Current core members include the developers of the
 package, from which this initiative rose.
 
 * [Laurent Gatto](https://github.com/lgatto), UCLouvain, Belgium
-* [Sebastien Gibb](https://github.com/sgibb),  University Medicine Greifswald, Germany
+* [Sebastian Gibb](https://github.com/sgibb), University Medicine Greifswald, Germany
 * [Johannes Rainer](https://github.com/jorainer), Eurac Research, Italy.
