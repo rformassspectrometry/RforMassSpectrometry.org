@@ -10,7 +10,7 @@ weight: 2
 ## Installation and use
 
 Execute
-`BiocManager::install("RforMassSpectromety/RforMassSpectromety")` to
+`BiocManager::install("RforMassSpectrometry/RforMassSpectrometry")` to
 install all the *RforMassSpectrometry* packages.
 
 Load the core packages with `library("RforMassSpectrometry")`.
