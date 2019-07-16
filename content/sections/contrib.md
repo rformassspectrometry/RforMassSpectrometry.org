@@ -6,8 +6,10 @@ nweight: 5
 ---
 
 Contributions to the initiative are more than welcome, whether under
-the form of ideas, documentation, code, packages, ... Please do [get in
-touch](contact) to discuss any suggestions.
+the form of ideas, documentation, code, packages, ... Please read the
+[contribution
+guidelines](https://rformassspectrometry.github.io/RforMassSpectrometry/articles/RforMassSpectrometry.html#contributions)
+for further details.
 
 As contributors and maintainers of the *RforMassSpectrometry*
 initiative, we pledge to respect all people who contribute through
@@ -30,3 +32,4 @@ opening an issue or contacting one or more of the project maintainers.
 
 This Code of Conduct is adapted from the Contributor Covenant, version
 1.0.0, available from http://contributor-covenant.org/version/1/0/0/
+

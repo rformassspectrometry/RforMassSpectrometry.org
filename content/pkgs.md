@@ -15,6 +15,8 @@ install all the *RforMassSpectrometry* packages.
 
 Load the core packages with `library("RforMassSpectrometry")`.
 
+[More informations ...](https://rformassspectrometry.github.io/RforMassSpectrometry/articles/RforMassSpectrometry.html#installation)
+
 
 ## Packages
 
