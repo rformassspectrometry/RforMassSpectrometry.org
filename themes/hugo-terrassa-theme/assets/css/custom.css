@@ -1,20 +1,66 @@
 /* From the tidyverse.org css */
 
-.package-section .packages .package {
+/* .package-section .packages .package { */
+/*     position: relative; */
+/*     height: 200px; */
+/*     overflow-y: hidden; */
+/*     background-size: 190px 215px; */
+/*     background-repeat: no-repeat; */
+/*     background-position: left top; */
+/*     background-image: url(images/tidy-packages-back-01.svg); } */
+
+/* .package-section .packages .package:first-of-type { */
+/*     background-image: url(images/tidy-packages-back-02.svg); } */
+
+/* .package-section .packages .package:last-of-type { */
+/*     background-image: url(images/tidy-packages-back-03.svg); } */
+
+
+.package-section .packages .package-left {
     position: relative;
     height: 200px;
     overflow-y: hidden;
     background-size: 190px 215px;
     background-repeat: no-repeat;
     background-position: left top;
-    background-image: url(images/tidy-packages-back-01.svg); }
+    background-image: url(images/prot-backbone-left.svg); }
 
-.package-section .packages .package:first-of-type {
-    background-image: url(images/tidy-packages-back-02.svg); }
+.package-section .packages .package-right {
+    position: relative;
+    height: 200px;
+    overflow-y: hidden;
+    background-size: 190px 215px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-image: url(images/prot-backbone-right.svg); }
 
-.package-section .packages .package:last-of-type {
-    background-image: url(images/tidy-packages-back-03.svg); }
+.package-section .packages .package-right:last-of-type {
+    background-image: url(images/prot-backbone-Cterm.svg); }
 
+.package-section .packages .package-left:first-of-type {
+    background-image: url(images/prot-backbone-Nterm.svg); }
+
+.package-section .packages .package-left .package-image-left {
+    position: absolute;
+    top: 6px;
+    left: 1px;
+    width: 120px;
+    height: 139px;
+    border: none; }
+
+.package-section .packages .package-right .package-image-right {
+    position: absolute;
+    top: 6px;
+    left: 60px;
+    width: 120px;
+    height: 139px;
+    border: none; }
+
+.package-section .packages .package-left .package-info {
+    margin: 20px 0 0 210px; }
+
+.package-section .packages .package-right .package-info {
+    margin: 20px 0 0 210px; }
 
 .package-section .packages .package .package-image {
     position: absolute;
@@ -23,22 +69,3 @@
     width: 120px;
     height: 139px;
     border: none; }
-
-.package-section .packages .package .package-image-left {
-    position: absolute;
-    top: 6px;
-    left: 1px;
-    width: 120px;
-    height: 139px;
-    border: none; }
-
-.package-section .packages .package .package-image-right {
-    position: absolute;
-    top: 6px;
-    left: 60px;
-    width: 120px;
-    height: 139px;
-    border: none; }
-
-.package-section .packages .package .package-info {
-    margin: 20px 0 0 210px; }
