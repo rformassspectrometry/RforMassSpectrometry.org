@@ -41,7 +41,7 @@ more ...</a></p> </div> </div>
 <img class="package-image-right" src="/images/hex-R4MSbeam.png" alt=""></img>
 <div class="package-info">
 
-<h2>The MsExperiment</h2>
+<h2>MsExperiment</h2>
 
 <p>The MsExperiment</b> package provdes the infrastructure to store
 and manage all aspects related to a complete proteomics or
