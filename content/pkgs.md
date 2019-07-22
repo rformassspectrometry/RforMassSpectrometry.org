@@ -43,7 +43,7 @@ more ...</a></p> </div> </div>
 
 <h2>MsExperiment</h2>
 
-<p>The MsExperiment</b> package provdes the infrastructure to store
+<p>The MsExperiment package provdes the infrastructure to store
 and manage all aspects related to a complete proteomics or
 metabolomics mass spectrometry experiment. It relieves on the other
 RforMassSpectrometry core packages for the data crunching. <a
@@ -51,12 +51,12 @@ href="https://github.com/rformassspectrometry/MsExperiment">Learn more
 ...</a></p> </div> </div>
 
 <div class="package-left">
-<img class="package-image-left" src="/images/hex-R4MSsegm.png" alt=""></img>
+<img class="package-image-left" src="/images/hex-Spectra.png" alt=""></img>
 <div class="package-info">
 
 <h2>Spectra</h2>
 
-<p>The Spectra</a> package provides base classes and processing
+<p>The Spectra package provides base classes and processing
 methods for raw mass spectrometry data. It is designed with
 efficiency, both in terms of memory footprint and processing time in
 mind, and can manage data in different types of formats. <a
@@ -91,6 +91,32 @@ of mass spectrometry and proteomics data, ranging from raw to
 quantitative and annotated data. <a
 href="https://github.com/lgatto/MSnbase">Learn more ...</a></p> </div>
 </div>
+
+<div class="package-right">
+<img class="package-image-right" src="/images/hex-Chromatograms.png" alt=""></img>
+<div class="package-info">
+
+<h2>Chromatograms</h2>
+
+<p>The Chromatograms package provides base classes and processing
+methods for chromatographics data. It is designed with efficiency,
+both in terms of memory footprint and processing time in mind, and can
+manage data in different types of formats. <a
+href="https://github.com/rformassspectrometry/Chromatograms">Learn
+more ...</a> </p> </div> </div>
+
+
+<div class="package-left">
+<img class="package-image-left" src="/images/hex-MsCoreUtils.png" alt=""></img>
+<div class="package-info">
+
+<h2>MsCoreUtils</h2>
+
+<p>The MsCoreUtils package defines low-level functions for mass
+spectrometry data processing and is independent of any high-level data
+structures. <a
+href="https://github.com/rformassspectrometry/Chromatograms">Learn
+more ...</a></p> </div> </div>
 
 
 <div class="package-right">
