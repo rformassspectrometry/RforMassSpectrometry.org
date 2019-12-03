@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pkgs/</guid>
-      <description>Installation and use Execute BiocManager::install(&amp;quot;RforMassSpectromety/RforMassSpectromety&amp;quot;) to install all the RforMassSpectrometry packages.
+      <description>Installation and use Execute BiocManager::install(&amp;quot;RforMassSpectrometry/RforMassSpectrometry&amp;quot;) to install all the RforMassSpectrometry packages.
 Load the core packages with library(&amp;quot;RforMassSpectrometry&amp;quot;).
 Packages  RforMassSpectrometry RforMassSpectrometry is a meta-package that is used to manage the R for Mass Spectrometry suite and core package versions in a coherent way. Users will rely on this package to install and manage the other packages. Learn more ...
    The MsExperiment The MsExperiment package provdes the infrastructure to store and manage all aspects related to a complete proteomics or metabolomics mass spectrometry experiment.</description>
@@ -60,7 +60,7 @@ Website For questions or comments about the website, please refer to the Github 
       
       <guid>/sections/who/</guid>
       <description>Current core members include the developers of the MSnbase package, from which this initiative rose.
- Laurent Gatto, UCLouvain, Belgium Sebastien Gibb, University Medicine Greifswald, Germany Johannes Rainer, Eurac Research, Italy.  </description>
+ Laurent Gatto, UCLouvain, Belgium Sebastian Gibb, University Medicine Greifswald, Germany Johannes Rainer, Eurac Research, Italy.  </description>
     </item>
     
     <item>

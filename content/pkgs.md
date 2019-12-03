@@ -23,7 +23,7 @@ Load the core packages with `library("RforMassSpectrometry")`.
 <div class="packages">
 
 <div class="package-left">
-<img class="package-image-left" src="/images/hex-R4MS.png" alt=""></img>
+<img class="package-image-left" src="/images/hex-RforMassSpectrometry.png" alt=""></img>
 <div class="package-info">
 
 <h2>RforMassSpectrometry</h2>
@@ -36,7 +36,7 @@ href="https://github.com/rformassspectrometry/RforMassSpectrometry">Learn
 more ...</a></p> </div> </div>
 
 <div class="package-right">
-<img class="package-image-right" src="/images/hex-R4MSbeam.png" alt=""></img>
+<img class="package-image-right" src="/images/hex-MsExperiment.png" alt=""></img>
 <div class="package-info">
 
 <h2>The MsExperiment</h2>
@@ -49,7 +49,7 @@ href="https://github.com/rformassspectrometry/MsExperiment">Learn more
 ...</a></p> </div> </div>
 
 <div class="package-left">
-<img class="package-image-left" src="/images/hex-R4MSsegm.png" alt=""></img>
+<img class="package-image-left" src="/images/hex-Spectra.png" alt=""></img>
 <div class="package-info">
 
 <h2>Spectra</h2>
@@ -63,7 +63,7 @@ href="https://github.com/rformassspectrometry/Spectra">Learn more
 
 
 <div class="package-right">
-<img class="package-image-right" src="/images/hex-R4MScube.png" alt=""></img>
+<img class="package-image-right" src="/images/hex-Features.png" alt=""></img>
 <div class="package-info">
 
 <h2>Features</h2>
