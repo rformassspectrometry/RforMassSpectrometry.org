@@ -27,8 +27,9 @@
       <guid>/pkgs/</guid>
       <description>Installation and use Execute BiocManager::install(&amp;quot;RforMassSpectrometry/RforMassSpectrometry&amp;quot;) to install all the RforMassSpectrometry packages.
 Load the core packages with library(&amp;quot;RforMassSpectrometry&amp;quot;).
+More informations &amp;hellip;
 Packages  RforMassSpectrometry RforMassSpectrometry is a meta-package that is used to manage the R for Mass Spectrometry suite and core package versions in a coherent way. Users will rely on this package to install and manage the other packages. Learn more ...
-   The MsExperiment The MsExperiment package provdes the infrastructure to store and manage all aspects related to a complete proteomics or metabolomics mass spectrometry experiment.</description>
+   MsExperiment The MsExperiment package provdes the infrastructure to store and manage all aspects related to a complete proteomics or metabolomics mass spectrometry experiment.</description>
     </item>
     
     <item>
@@ -116,7 +117,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/contrib/</guid>
-      <description>Contributions to the initiative are more than welcome, whether under the form of ideas, documentation, code, packages, &amp;hellip; Please do get in touch to discuss any suggestions.
+      <description>Contributions to the initiative are more than welcome, whether under the form of ideas, documentation, code, packages, &amp;hellip; Please read the contribution guidelines for further details.
 As contributors and maintainers of the RforMassSpectrometry initiative, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities. We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, or religion.</description>
     </item>
     
