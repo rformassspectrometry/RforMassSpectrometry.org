@@ -43,9 +43,9 @@ more ...</a></p> </div> </div>
 
 <h2>MsExperiment</h2>
 
-<p>The MsExperiment package provdes the infrastructure to store
+<p>The MsExperiment package provides the infrastructure to store
 and manage all aspects related to a complete proteomics or
-metabolomics mass spectrometry experiment. It relieves on the other
+metabolomics mass spectrometry experiment. It relies on the other
 RforMassSpectrometry core packages for the data crunching. <a
 href="https://github.com/rformassspectrometry/MsExperiment">Learn more
 ...</a></p> </div> </div>
