@@ -99,7 +99,7 @@ href="https://github.com/lgatto/MSnbase">Learn more ...</a></p> </div>
 <h2>Chromatograms</h2>
 
 <p>The Chromatograms package provides base classes and processing
-methods for chromatographics data. It is designed with efficiency,
+methods for chromatographic data. It is designed with efficiency,
 both in terms of memory footprint and processing time in mind, and can
 manage data in different types of formats. <a
 href="https://github.com/rformassspectrometry/Chromatograms">Learn
