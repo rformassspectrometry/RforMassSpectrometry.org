@@ -70,7 +70,7 @@ href="https://github.com/rformassspectrometry/Spectra">Learn more
 
 <h2>Features</h2>
 
-<p>The Features package offers the infrastrucutre to manage and
+<p>The Features package offers the infrastructure to manage and
 process quantitative features for high-throughput mass spectrometry
 assays, including proteomics and metabolomics experiments. <a
 href="https://github.com/rformassspectrometry/Features">Learn more
