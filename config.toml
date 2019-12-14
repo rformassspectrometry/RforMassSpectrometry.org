@@ -50,7 +50,7 @@ theme = "hugo-terrassa-theme"
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = "contact-cbio@uclouvain.be"
+    email = "contact@rformassspectrometry.org"
     phone = ""
     skype = ""
     address = "de Duve Institue, UCLouvain, Belgium"
