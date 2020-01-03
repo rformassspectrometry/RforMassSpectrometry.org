@@ -102,7 +102,7 @@ href="https://lgatto.github.io/MSnbase">Learn more ...</a></p> </div>
 methods for chromatographic data. It is designed with efficiency,
 both in terms of memory footprint and processing time in mind, and can
 manage data in different types of formats. <a
-href="https://github.com/rformassspectrometry/Chromatograms">Learn
+href="https://rformassspectrometry.github.io/Chromatograms">Learn
 more ...</a> </p> </div> </div>
 
 
