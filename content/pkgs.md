@@ -34,7 +34,7 @@ Load the core packages with `library("RforMassSpectrometry")`.
 for Mass Spectrometry suite and core package versions in a coherent
 way. Users will rely on this package to install and manage the other
 packages. <a
-href="https://github.com/rformassspectrometry/RforMassSpectrometry">Learn
+href="https://rformassspectrometry.github.io/RforMassSpectrometry/">Learn
 more ...</a></p> </div> </div>
 
 <div class="package-right">
@@ -43,11 +43,11 @@ more ...</a></p> </div> </div>
 
 <h2>MsExperiment</h2>
 
-<p>The MsExperiment package provides the infrastructure to store
-and manage all aspects related to a complete proteomics or
-metabolomics mass spectrometry experiment. It relies on the other
+<p>The MsExperiment package provides the infrastructure to store and
+manage all aspects related to a complete proteomics or metabolomics
+mass spectrometry experiment. It relies on the other
 RforMassSpectrometry core packages for the data crunching. <a
-href="https://github.com/rformassspectrometry/MsExperiment">Learn more
+href="https://rformassspectrometry.github.io/MsExperiment">Learn more
 ...</a></p> </div> </div>
 
 <div class="package-left">
@@ -60,7 +60,7 @@ href="https://github.com/rformassspectrometry/MsExperiment">Learn more
 methods for raw mass spectrometry data. It is designed with
 efficiency, both in terms of memory footprint and processing time in
 mind, and can manage data in different types of formats. <a
-href="https://github.com/rformassspectrometry/Spectra">Learn more
+href="https://rformassspectrometry.github.io/Spectra">Learn more
 ...</a> </p> </div> </div>
 
 
@@ -73,7 +73,7 @@ href="https://github.com/rformassspectrometry/Spectra">Learn more
 <p>The Features package offers the infrastructure to manage and
 process quantitative features for high-throughput mass spectrometry
 assays, including proteomics and metabolomics experiments. <a
-href="https://github.com/rformassspectrometry/Features">Learn more
+href="https://rformassspectrometry.github.io/Features">Learn more
 ...</a></p> </div> </div>
 
 
@@ -89,7 +89,7 @@ href="http://bioconductor.org/packages/devel/bioc/html/MSnbase.html">Bioconducto
 provides infrastructure for manipulation, processing and visualisation
 of mass spectrometry and proteomics data, ranging from raw to
 quantitative and annotated data. <a
-href="https://github.com/lgatto/MSnbase">Learn more ...</a></p> </div>
+href="https://lgatto.github.io/MSnbase">Learn more ...</a></p> </div>
 </div>
 
 <div class="package-right">
@@ -115,7 +115,7 @@ more ...</a> </p> </div> </div>
 <p>The MsCoreUtils package defines low-level functions for mass
 spectrometry data processing and is independent of any high-level data
 structures. <a
-href="https://github.com/rformassspectrometry/MsCoreUtils">Learn
+href="https://rformassspectrometry.github.io/MsCoreUtils">Learn
 more ...</a></p> </div> </div>
 
 
