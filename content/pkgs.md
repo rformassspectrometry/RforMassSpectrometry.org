@@ -123,13 +123,12 @@ more ...</a></p> </div> </div>
 <img class="package-image-right" src="/images/hex-R4MSbord.png" alt=""></img>
 <div class="package-info">
 
-<h2>unimod</h2>
+<h2>MetaboCoreUtils</h2>
 
-<p>The unimod</b> package provides an interface to the community
-supported database for amino acide/protein modifications using mass
-spectrometry. <a
-href="https://github.com/rformassspectrometry/unimod">Learn more
-...</a></p> </div> </div>
+<p>The MetaboCoreUtils package defines low-level functions for common operations
+in metabolomics and is independent of any high-level data structures. <a
+href="https://rformassspectrometry.github.io/MetaboCoreUtils">Learn
+more ...</a></p> </div> </div>
 
 </div>
 
