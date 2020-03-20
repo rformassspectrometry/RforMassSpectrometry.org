@@ -131,6 +131,17 @@ spectrometry. <a
 href="https://github.com/rformassspectrometry/unimod">Learn more
 ...</a></p> </div> </div>
 
+<div class="package-left">
+<img class="package-image-left" src="/images/hex-R4MScube.png" alt=""></img>
+<div class="package-info">
+
+<h2>MetaboCoreUtils</h2>
+
+<p>The MetaboCoreUtils package defines low-level functions for common operations
+in metabolomics and is independent of any high-level data structures. <a
+href="https://rformassspectrometry.github.io/MetaboCoreUtils">Learn
+more ...</a></p> </div> </div>
+
 </div>
 
 </div>
