@@ -68,12 +68,12 @@ href="https://rformassspectrometry.github.io/Spectra">Learn more
 <img class="package-image-right" src="/images/hex-Features.png" alt=""></img>
 <div class="package-info">
 
-<h2>Features</h2>
+<h2>QFeatures</h2>
 
-<p>The Features package offers the infrastructure to manage and
+<p>The QFeatures package offers the infrastructure to manage and
 process quantitative features for high-throughput mass spectrometry
 assays, including proteomics and metabolomics experiments. <a
-href="https://rformassspectrometry.github.io/Features">Learn more
+href="https://rformassspectrometry.github.io/QFeatures">Learn more
 ...</a></p> </div> </div>
 
 
