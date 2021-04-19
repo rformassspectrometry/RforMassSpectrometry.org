@@ -120,7 +120,7 @@ more ...</a></p> </div> </div>
 
 
 <div class="package-right">
-<img class="package-image-right" src="/images/hex-R4MSbord.png" alt=""></img>
+<img class="package-image-right" src="/images/hex-MetaboCoreUtils.png" alt=""></img>
 <div class="package-info">
 
 <h2>MetaboCoreUtils</h2>
