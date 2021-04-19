@@ -78,19 +78,15 @@ href="https://rformassspectrometry.github.io/QFeatures">Learn more
 
 
 <div class="package-left">
-<img class="package-image-left" src="/images/hex-MSnbase.png" alt=""></img>
+<img class="package-image-left" src="/images/hex-RforMassSpectrometry.png" alt=""></img>
 <div class="package-info">
 
-<h2>MSnbase</h2>
+<h2>PSM</h2>
 
-<p>The MSnbase package, developed and maintained since 2010 and
-available from <a
-href="http://bioconductor.org/packages/devel/bioc/html/MSnbase.html">Bioconductor</a>
-provides infrastructure for manipulation, processing and visualisation
-of mass spectrometry and proteomics data, ranging from raw to
-quantitative and annotated data. <a
-href="https://lgatto.github.io/MSnbase">Learn more ...</a></p> </div>
-</div>
+<p>The PSM package allows to read, manapilate and process
+peptide-spectrum matches. <a
+href="https://rformassspectrometry.github.io/PSM">Learn more
+...</a></p> </div> </div>
 
 <div class="package-right">
 <img class="package-image-right" src="/images/hex-Chromatograms.png" alt=""></img>
