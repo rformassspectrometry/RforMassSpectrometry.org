@@ -83,7 +83,7 @@ href="https://rformassspectrometry.github.io/QFeatures">Learn more
 
 <h2>PSM</h2>
 
-<p>The PSM package allows to read, manapilate and process
+<p>The PSM package allows to read, manipulate and process
 peptide-spectrum matches. <a
 href="https://rformassspectrometry.github.io/PSM">Learn more
 ...</a></p> </div> </div>
