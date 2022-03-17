@@ -7,6 +7,11 @@ title: Packages
 weight: 2
 ---
 
+This page lists some core packages from *RforMassSpectrometry*. For a full
+listing of currently available package see the project's [R universe
+page](https://rformassspectrometry.r-universe.dev/ui#packages).
+
+
 ## Installation and use
 
 Execute
