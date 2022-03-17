@@ -17,7 +17,6 @@ information on how to become a contributor yourself see the contribution section
 in the [main page](https://www.rformassspectrometry.org/).
 
 - [Josep M. Badia](https://github.com/jmbadia) (`CompoundDb`, `MsCoreUtils`)
-- [Thomas Burger]() (`PSMatch`)
 - [Laurent Gatto](https://github.com/lgatto) (`Spectra`, `PSMatch`,
   `MsCoreUtils`, `QFeatures`, `MsExperiment`, `MsBackendMgf`, `SpectraVis`,
   `MsQuantitation`)
@@ -33,7 +32,6 @@ in the [main page](https://www.rformassspectrometry.org/).
 - [Liesa Salzer](https://github.com/LiesaSalzer) (`MetaboCoreUtils`)
 - [Sigurdur Smarason](https://github.com/SiggiSmara) (`MsCoreUtils`)
 - [Jan Stanstrup](https://github.com/stanstrup) (`Spectra`, `CompoundDb`)
-- [Adriaan Sticker]() (`MsCoreUtils`)
 - [Michael Stravs](https://github.com/meowcat/) (`MetaboCoreUtils`,
   `MsBackendMassbank`)
 - [Christophe Vanderaa](https://github.com/cvanderaa) (`QFeatures`)
