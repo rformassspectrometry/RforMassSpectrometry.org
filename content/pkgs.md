@@ -135,6 +135,10 @@ more ...</a></p> </div> </div>
 
 </div>
 
+## Get started
+
+Each package comes with ample documentation, directly available on-line on the respective package webpages. All vignettes are also available [https://rformassspectrometry.r-universe.dev/ui#articles](here). For a [R for Mass Spectrometry tutorial](https://rformassspectrometry.github.io/docs/) is also a good way to learn how to use some of the most important packages of the project. 
+
 ## Get help
 
 For questions about specific software or their usage, please refer to
