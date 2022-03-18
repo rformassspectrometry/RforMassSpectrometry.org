@@ -137,7 +137,7 @@ more ...</a></p> </div> </div>
 
 ## Get started
 
-Each package comes with ample documentation, directly available on-line on the respective package webpages. All vignettes are also available [here](https://rformassspectrometry.r-universe.dev/ui#articles). For a [R for Mass Spectrometry tutorial](https://rformassspectrometry.github.io/docs/) is also a good way to learn how to use some of the most important packages of the project. 
+Each package comes with ample documentation, directly available on-line on the respective package webpages. All vignettes are also available [here](https://rformassspectrometry.r-universe.dev/ui#articles). The [R for Mass Spectrometry tutorial](https://rformassspectrometry.github.io/docs/) is also a good way to learn how to use some of the most important packages of the project. 
 
 ## Get help
 
