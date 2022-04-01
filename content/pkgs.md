@@ -86,11 +86,11 @@ href="https://rformassspectrometry.github.io/QFeatures">Learn more
 <img class="package-image-left" src="/images/hex-RforMassSpectrometry.png" alt=""></img>
 <div class="package-info">
 
-<h2>PSM</h2>
+<h2>PSMatch</h2>
 
-<p>The PSM package allows to read, manipulate and process
+<p>The PSMatch package allows to read, process and analyse
 peptide-spectrum matches. <a
-href="https://rformassspectrometry.github.io/PSM">Learn more
+href="https://rformassspectrometry.github.io/PSMatch">Learn more
 ...</a></p> </div> </div>
 
 <div class="package-right">
