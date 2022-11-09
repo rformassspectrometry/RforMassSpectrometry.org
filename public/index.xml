@@ -25,7 +25,7 @@
 Installation and use Execute BiocManager::install(&amp;quot;RforMassSpectrometry/RforMassSpectrometry&amp;quot;) to install all the RforMassSpectrometry packages.
 Load the core packages with library(&amp;quot;RforMassSpectrometry&amp;quot;).
 More informations &amp;hellip;
-Packages Get started Each package comes with ample documentation, directly available on-line on the respective package webpages. All vignettes are also available here. The R for Mass Spectrometry tutorial is also a good way to learn how to use some of the most important packages of the project.</description>
+Packages  RforMassSpectrometry RforMassSpectrometry is a meta-package that is used to manage the R for Mass Spectrometry suite and core package versions in a coherent way. Users will rely on this package to install and manage the other packages.</description>
     </item>
     
     <item>

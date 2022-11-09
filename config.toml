@@ -8,6 +8,11 @@ paginate = 3
 
 theme = "hugo-terrassa-theme"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
     description = "R software for the analysis and interpretation of high throughput mass spectrometry assays."
     favicon = "favicon.ico"
