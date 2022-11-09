@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on RforMassSpectrometry</title>
     <link>/</link>
     <description>Recent content in Home on RforMassSpectrometry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 19 Dec 2018 22:32:19 +0100</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 19 Dec 2018 22:32:19 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The R for Mass Spectrometry Initiative</title>
       <link>/sections/r4ms/</link>
@@ -25,11 +21,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pkgs/</guid>
-      <description>Installation and use Execute BiocManager::install(&amp;quot;RforMassSpectrometry/RforMassSpectrometry&amp;quot;) to install all the RforMassSpectrometry packages.
+      <description>This page lists some core packages from RforMassSpectrometry. For a full listing of currently available package see the project&amp;rsquo;s R universe page.
+Installation and use Execute BiocManager::install(&amp;quot;RforMassSpectrometry/RforMassSpectrometry&amp;quot;) to install all the RforMassSpectrometry packages.
 Load the core packages with library(&amp;quot;RforMassSpectrometry&amp;quot;).
 More informations &amp;hellip;
-Packages  RforMassSpectrometry RforMassSpectrometry is a meta-package that is used to manage the R for Mass Spectrometry suite and core package versions in a coherent way. Users will rely on this package to install and manage the other packages. Learn more ...
-   MsExperiment The MsExperiment package provdes the infrastructure to store and manage all aspects related to a complete proteomics or metabolomics mass spectrometry experiment.</description>
+Packages Get started Each package comes with ample documentation, directly available on-line on the respective package webpages. All vignettes are also available here. The R for Mass Spectrometry tutorial is also a good way to learn how to use some of the most important packages of the project.</description>
     </item>
     
     <item>
@@ -43,15 +39,13 @@ The RforMassSpectrometry initiative aims at co-developing and maintaining intero
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>/contact/</link>
+      <title>Contributors</title>
+      <link>/contributions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
-      <description>The RforMassSpectrometry initiative For general enquiries about the initiative, you can open an issue or use the contact email below.
-We plan to add additional discussion channels in the near future.
-Software and usage For questions about specific software or their usage, please refer to the software&amp;rsquo;s github issue page, or use the Bioconductor support site.
-Website For questions or comments about the website, please refer to the Github repo.</description>
+      <guid>/contributions/</guid>
+      <description>Contributors This page lists contributors (in alphabetical order) to the various packages. This list was manually curated and might thus not be complete. For individual code contributions to the packages see here. For more information on how to become a contributor yourself see the contribution section in the main page.
+ Josep M. Badia (CompoundDb, MsCoreUtils) Roger Giné Bertomeu (CompoundDb, MetaboCoreUtils) Laurent Gatto (Spectra, PSMatch, MsCoreUtils, QFeatures, MsExperiment, MsBackendMgf, SpectraVis, MsQuantitation) Sebastian Gibb (MetaboCoreUtils, Spectra, PSMatch, MsCoreUtils, SpectraQL, MsExperiment, MsBackendMgf) Helge Hecht (SpectriPy) Carolin Huber (MetaboAnnotation, SpectriPy) Thomas Naake (MsCoreUtils) Steffen Neumann (MsBackendTimsTof, MsBackendMsp) Johannes Rainer (MsBackendTimsTof, MetaboAnnotation, MetaboCoreUtils, Spectra, PSMatch, CompoundDb, MsBackendMsp, MsCoreUtils, SpectraQL, MsExperiment, MsFeatures, MsBackendMassbank, MsBackendMgf) Liesa Salzer (MetaboCoreUtils) Sigurdur Smarason (MsCoreUtils) Jan Stanstrup (Spectra, CompoundDb) Michael Stravs (MetaboCoreUtils, MsBackendMassbank) Christophe Vanderaa (QFeatures) Andrea Vicini (MsBackendTimsTof, MetaboAnnotation, MetaboCoreUtils, CompoundDb, SpectraQL) Samuel Wieczorek (PSMatch, MsCoreUtils) Michael Witting (MetaboAnnotation, MetaboCoreUtils, MsBackendMsp, MsCoreUtils, MsBackendMassbank)  </description>
     </item>
     
     <item>
@@ -62,6 +56,18 @@ Website For questions or comments about the website, please refer to the Github 
       <guid>/sections/who/</guid>
       <description>Current core members include the developers of the MSnbase package, from which this initiative rose.
  Laurent Gatto, UCLouvain, Belgium Sebastian Gibb, University Medicine Greifswald, Germany Johannes Rainer, Eurac Research, Italy.  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>The RforMassSpectrometry initiative For general enquiries about the initiative, you can open an issue or use the contact email below.
+We plan to add additional discussion channels in the near future.
+Software and usage For questions about specific software or their usage, please refer to the software&amp;rsquo;s github issue page, or use the Bioconductor support site.
+Website For questions or comments about the website, please refer to the Github repo.</description>
     </item>
     
     <item>

@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>architecture on RforMassSpectrometry</title>
     <link>/tags/architecture/</link>
     <description>Recent content in architecture on RforMassSpectrometry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 Dec 2018 22:34:04 +0100</lastBuildDate>
-    
-	<atom:link href="/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 16 Dec 2018 22:34:04 +0100</lastBuildDate><atom:link href="/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How architects aren&#39;t as bad as you think</title>
       <link>/posts/bad-architects/</link>

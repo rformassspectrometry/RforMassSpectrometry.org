@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sections on RforMassSpectrometry</title>
     <link>/sections/</link>
     <description>Recent content in Sections on RforMassSpectrometry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The R for Mass Spectrometry Initiative</title>
       <link>/sections/r4ms/</link>

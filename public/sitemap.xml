@@ -1,147 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/</loc>
     <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/sections/r4ms/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/pkgs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/sections/sw/</loc>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/contributions/</loc>
+  </url><url>
     <loc>/sections/who/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/contact/</loc>
+  </url><url>
     <loc>/posts/</loc>
     <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/game-websites/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/cooking/</loc>
     <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/health/</loc>
     <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/posts/game-websites/</loc>
+    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
+  </url><url>
     <loc>/posts/16-things-free-songs/</loc>
     <lastmod>2018-12-17T22:21:42+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/free/</loc>
     <lastmod>2018-12-17T22:21:42+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/music/</loc>
     <lastmod>2018-12-17T22:21:42+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/songs/</loc>
     <lastmod>2018-12-17T22:21:42+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/bad-architects/</loc>
-    <lastmod>2018-12-16T22:34:04+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/architecture/</loc>
     <lastmod>2018-12-16T22:34:04+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/preventative-medicines/</loc>
-    <lastmod>2018-12-07T22:30:56+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/posts/bad-architects/</loc>
+    <lastmod>2018-12-16T22:34:04+01:00</lastmod>
+  </url><url>
     <loc>/tags/medicine/</loc>
     <lastmod>2018-12-07T22:30:56+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/posts/preventative-medicines/</loc>
+    <lastmod>2018-12-07T22:30:56+01:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url><url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/sections/contrib/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/sections/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>
