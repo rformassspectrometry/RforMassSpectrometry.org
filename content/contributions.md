@@ -29,6 +29,8 @@ in the [main page](https://www.rformassspectrometry.org/).
 - [Thomas Naake](https://github.com/tnaake) (`MsCoreUtils`)
 - [Steffen Neumann](https://github.com/sneumann) (`MsBackendTimsTof`,
   `MsBackendMsp`)
+- [Christian Panse](https://github.com/cpanse) (`rawrr`,
+  `MsBackendRawFileReader`, `protViz`, `specL`)
 - [Johannes Rainer](https://github.com/jorainer) (`MsBackendTimsTof`,
   `MetaboAnnotation`, `MetaboCoreUtils`, `Spectra`, `PSMatch`, `CompoundDb`,
   `MsBackendMsp`, `MsCoreUtils`, `SpectraQL`, `MsExperiment`, `MsFeatures`,
