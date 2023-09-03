@@ -19,7 +19,7 @@ We plan to add additional discussion channels in the near future.
 
 For questions about specific software or their usage, please refer to
 the software's github issue page, or use the [Bioconductor support
-site](http://support.bioconductor.org/). 
+site](http://support.bioconductor.org/).
 
 ## Website
 
@@ -36,10 +36,10 @@ For any other questions, please use the email address below.
 
 ## Latest news
 
-We will be tweeting news about the RforMassSpectrometry initiative on
-twitter using the
-[#RforMassSpec](https://twitter.com/search?q=%23rformassspec) hastag.
+<!-- We will be tweeting news about the RforMassSpectrometry initiative on -->
+<!-- twitter using the -->
+<!-- [#RforMassSpec](https://twitter.com/search?q=%23rformassspec) hastag. -->
 
-You can also be notified when project specific issues are created or
+You can be notified when project specific issues are created or
 discussed by watching a repositories issues. This is probably the best
 way to keep track of specific software and their development.

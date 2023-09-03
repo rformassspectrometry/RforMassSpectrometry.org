@@ -61,7 +61,7 @@ theme = "hugo-terrassa-theme"
     address = "de Duve Institue, UCLouvain, Belgium"
 
 [params.social]
-    twitter = "https://twitter.com/search?q=%23rformassspec"
+    twitter = ""
     facebook = ""
     github = "https://github.com/RforMassSpectrometry"
     gitlab = ""
@@ -81,20 +81,20 @@ theme = "hugo-terrassa-theme"
 
 [privacy]
     [privacy.googleAnalytics]
-	anonymizeIP = true
-	disable = false
-	respectDoNotTrack = true
-	useSessionStorage = false
+        anonymizeIP = true
+        disable = false
+        respectDoNotTrack = true
+        useSessionStorage = false
     [privacy.instagram]
-	disable = false
-	simple = false
+        disable = false
+        simple = false
     [privacy.twitter]
-	disable = false
-	enableDNT = true
-	simple = false
+        disable = false
+        enableDNT = true
+        simple = false
     [privacy.vimeo]
-	disable = false
-	simple = false
+        disable = false
+        simple = false
     [privacy.youtube]
-	disable = false
-	privacyEnhanced = true
+        disable = false
+        privacyEnhanced = true
