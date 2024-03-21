@@ -28,7 +28,7 @@ in the [main page](https://www.rformassspectrometry.org/).
 - [Helge Hecht](https://github.com/hechth) (`SpectriPy`)
 - [Carolin Huber](https://github.com/chufz) (`MetaboAnnotation`, `SpectriPy`)
 - [Philippine Louail](https://github.com/philouail) (`MetaboCoreUtils`,
-  `MetaboAnnotation`)
+  `MetaboAnnotation`, `MsCoreUtils`, `Spectra`)
 - [Thomas Naake](https://github.com/tnaake) (`MsCoreUtils`)
 - [Steffen Neumann](https://github.com/sneumann) (`MsBackendTimsTof`,
   `MsBackendMsp`)
