@@ -16,7 +16,7 @@ individual code contributions to the packages see
 information on how to become a contributor yourself see the contribution section
 in the [main page](https://www.rformassspectrometry.org/).
 
-- [Pratak Arora](https://github.com/pratarora) (`CompoundDb`)
+- [Prateek Arora](https://github.com/pratarora) (`CompoundDb`)
 - [Josep M. Badia](https://github.com/jmbadia) (`CompoundDb`, `MsCoreUtils`)
 - [Roger Giné Bertomeu](https://github.com/RogerGinBer) (`CompoundDb`,
   `MetaboCoreUtils`, `MsCoreUtils`, `MsBackendTimsTof`)
