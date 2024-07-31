@@ -16,6 +16,7 @@ individual code contributions to the packages see
 information on how to become a contributor yourself see the contribution section
 in the [main page](https://www.rformassspectrometry.org/).
 
+- [Pratak Arora](https://github.com/pratarora) (`CompoundDb`)
 - [Josep M. Badia](https://github.com/jmbadia) (`CompoundDb`, `MsCoreUtils`)
 - [Roger Giné Bertomeu](https://github.com/RogerGinBer) (`CompoundDb`,
   `MetaboCoreUtils`, `MsCoreUtils`, `MsBackendTimsTof`)
@@ -39,7 +40,8 @@ in the [main page](https://www.rformassspectrometry.org/).
   `MsBackendMsp`, `MsCoreUtils`, `SpectraQL`, `MsExperiment`, `MsFeatures`,
   `MsBackendMassbank`, `MsBackendMgf`, `MsBackendSql`)
 - [Liesa Salzer](https://github.com/LiesaSalzer) (`MetaboCoreUtils`)
-- [Nir Shahaf](https://github.com/aharonilab) (`Spectra`, `MetaboAnnotation`)
+- [Nir Shahaf](https://github.com/aharonilab) (`Spectra`, `MetaboAnnotation`, 
+  `SpectriPy`)
 - [Sigurdur Smarason](https://github.com/SiggiSmara) (`MsCoreUtils`)
 - [Jan Stanstrup](https://github.com/stanstrup) (`Spectra`, `CompoundDb`,
   `MsExperiment`)
