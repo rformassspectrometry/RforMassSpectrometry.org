@@ -16,29 +16,36 @@ individual code contributions to the packages see
 information on how to become a contributor yourself see the contribution section
 in the [main page](https://www.rformassspectrometry.org/).
 
+- [Matthias Anagho-Mattanovich](https://github.com/mmattano) (`SpectriPy`)
 - [Prateek Arora](https://github.com/pratarora) (`CompoundDb`)
 - [Josep M. Badia](https://github.com/jmbadia) (`CompoundDb`, `MsCoreUtils`)
 - [Roger Giné Bertomeu](https://github.com/RogerGinBer) (`CompoundDb`,
   `MetaboCoreUtils`, `MsCoreUtils`, `MsBackendTimsTof`)
-- [Mar Garcia-Aloy](https://github.com/mar-garcia) (`MsCoreUtils`)
+- [Wout Bittremieux](https://github.com/bittremieux) (`SpectriPy`)
+- [Victor Chrone](https://github.com/guldchrone) (`SpectriPy`)
+- [Marilyn De Graeve](https://github.com/mdgrv) (`SpectriPy`)
+- [Mar Garcia-Aloy](https://github.com/mar-garcia) (`MsCoreUtils`, `Spectra`)
 - [Laurent Gatto](https://github.com/lgatto) (`Spectra`, `PSMatch`,
   `MsCoreUtils`, `QFeatures`, `MsExperiment`, `MsBackendMgf`, `SpectraVis`,
   `MsQuantitation`)
 - [Sebastian Gibb](https://github.com/sgibb) (`MetaboCoreUtils`, `Spectra`,
   `PSMatch`, `MsCoreUtils`, `SpectraQL`, `MsExperiment`, `MsBackendMgf`)
 - [Helge Hecht](https://github.com/hechth) (`SpectriPy`)
+- [Nils Hoffmann](https://github.com/nilshoffmann) (`SpectriPy`)
 - [Carolin Huber](https://github.com/chufz) (`MetaboAnnotation`, `SpectriPy`,
   `MsBackendTimsTof`)
 - [Philippine Louail](https://github.com/philouail) (`MetaboCoreUtils`,
-  `MetaboAnnotation`, `MsCoreUtils`, `Spectra`)
-- [Thomas Naake](https://github.com/tnaake) (`MsCoreUtils`)
+  `MetaboAnnotation`, `MsCoreUtils`, `Spectra`, `Chromatograms`,
+  `MsBackendMetaboLights`)
+- [Pierre Marchal](https://github.com/PiMarchal) (`SpectriPy`)
+- [Thomas Naake](https://github.com/tnaake) (`MsCoreUtils`, `SpectriPy`)
 - [Steffen Neumann](https://github.com/sneumann) (`MsBackendTimsTof`,
   `MsBackendMsp`)
 - [Christian Panse](https://github.com/cpanse) (`Spectra`)
 - [Johannes Rainer](https://github.com/jorainer) (`MsBackendTimsTof`,
   `MetaboAnnotation`, `MetaboCoreUtils`, `Spectra`, `PSMatch`, `CompoundDb`,
   `MsBackendMsp`, `MsCoreUtils`, `SpectraQL`, `MsExperiment`, `MsFeatures`,
-  `MsBackendMassbank`, `MsBackendMgf`, `MsBackendSql`)
+  `MsBackendMassbank`, `MsBackendMgf`, `MsBackendSql`, `MsBackendMetaboLights`)
 - [Liesa Salzer](https://github.com/LiesaSalzer) (`MetaboCoreUtils`)
 - [Nir Shahaf](https://github.com/aharonilab) (`Spectra`, `MetaboAnnotation`, 
   `SpectriPy`)
