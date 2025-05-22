@@ -24,19 +24,21 @@ in the [main page](https://www.rformassspectrometry.org/).
 - [Wout Bittremieux](https://github.com/bittremieux) (`SpectriPy`)
 - [Victor Chrone](https://github.com/guldchrone) (`SpectriPy`)
 - [Marilyn De Graeve](https://github.com/mdgrv) (`SpectriPy`)
+- [Guillaume Deflandre](https://github.com/guideflandre) (`Spectra`)
 - [Mar Garcia-Aloy](https://github.com/mar-garcia) (`MsCoreUtils`, `Spectra`)
 - [Laurent Gatto](https://github.com/lgatto) (`Spectra`, `PSMatch`,
   `MsCoreUtils`, `QFeatures`, `MsExperiment`, `MsBackendMgf`, `SpectraVis`,
   `MsQuantitation`)
 - [Sebastian Gibb](https://github.com/sgibb) (`MetaboCoreUtils`, `Spectra`,
   `PSMatch`, `MsCoreUtils`, `SpectraQL`, `MsExperiment`, `MsBackendMgf`)
+- [Léopold Guyot](https://github.com/leopoldguyot) (`QFeatures`)
 - [Helge Hecht](https://github.com/hechth) (`SpectriPy`)
 - [Nils Hoffmann](https://github.com/nilshoffmann) (`SpectriPy`)
 - [Carolin Huber](https://github.com/chufz) (`MetaboAnnotation`, `SpectriPy`,
   `MsBackendTimsTof`)
 - [Philippine Louail](https://github.com/philouail) (`MetaboCoreUtils`,
   `MetaboAnnotation`, `MsCoreUtils`, `Spectra`, `Chromatograms`,
-  `MsBackendMetaboLights`)
+  `MsBackendMetaboLights`, `SpectriPy`)
 - [Pierre Marchal](https://github.com/PiMarchal) (`SpectriPy`)
 - [Thomas Naake](https://github.com/tnaake) (`MsCoreUtils`, `SpectriPy`)
 - [Steffen Neumann](https://github.com/sneumann) (`MsBackendTimsTof`,
@@ -47,8 +49,7 @@ in the [main page](https://www.rformassspectrometry.org/).
   `MsBackendMsp`, `MsCoreUtils`, `SpectraQL`, `MsExperiment`, `MsFeatures`,
   `MsBackendMassbank`, `MsBackendMgf`, `MsBackendSql`, `MsBackendMetaboLights`)
 - [Liesa Salzer](https://github.com/LiesaSalzer) (`MetaboCoreUtils`)
-- [Nir Shahaf](https://github.com/aharonilab) (`Spectra`, `MetaboAnnotation`, 
-  `SpectriPy`)
+- [Nir Shahaf](https://github.com/aharonilab) (`Spectra`, `MetaboAnnotation`)
 - [Sigurdur Smarason](https://github.com/SiggiSmara) (`MsCoreUtils`)
 - [Jan Stanstrup](https://github.com/stanstrup) (`Spectra`, `CompoundDb`,
   `MsExperiment`)
@@ -60,4 +61,6 @@ in the [main page](https://www.rformassspectrometry.org/).
   `MetaboAnnotation`, `MetaboCoreUtils`, `CompoundDb`, `SpectraQL`)
 - [Samuel Wieczorek](https://github.com/samWieczorek) (`PSMatch`, `MsCoreUtils`)
 - [Michael Witting](https://github.com/michaelwitting/) (`MetaboAnnotation`,
-  `MetaboCoreUtils`, `MsBackendMsp`, `MsCoreUtils`, `MsBackendMassbank`)
+  `MetaboCoreUtils`, `MsBackendMsp`, `MsCoreUtils`, `MsBackendMassbank`,
+  `SpectriPy`)
+  
