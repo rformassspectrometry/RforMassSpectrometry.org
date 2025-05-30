@@ -36,6 +36,7 @@ in the [main page](https://www.rformassspectrometry.org/).
 - [Nils Hoffmann](https://github.com/nilshoffmann) (`SpectriPy`)
 - [Carolin Huber](https://github.com/chufz) (`MetaboAnnotation`, `SpectriPy`,
   `MsBackendTimsTof`)
+- [Johan Lassen](https://github.com/JohanLassen/) (`MsFeatures`)
 - [Philippine Louail](https://github.com/philouail) (`MetaboCoreUtils`,
   `MetaboAnnotation`, `MsCoreUtils`, `Spectra`, `Chromatograms`,
   `MsBackendMetaboLights`, `SpectriPy`)
