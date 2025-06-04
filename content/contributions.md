@@ -22,9 +22,10 @@ in the [main page](https://www.rformassspectrometry.org/).
 - [Roger Giné Bertomeu](https://github.com/RogerGinBer) (`CompoundDb`,
   `MetaboCoreUtils`, `MsCoreUtils`, `MsBackendTimsTof`)
 - [Wout Bittremieux](https://github.com/bittremieux) (`SpectriPy`)
+- [Tuomas Borman](https://github.com/TuomasBorman) (`MsExperiment`)
 - [Victor Chrone](https://github.com/guldchrone) (`SpectriPy`)
 - [Marilyn De Graeve](https://github.com/mdgrv) (`SpectriPy`)
-- [Guillaume Deflandre](https://github.com/guideflandre) (`Spectra`)
+- [Guillaume Deflandre](https://github.com/guideflandre) (`PSMatch`, `Spectra`)
 - [Mar Garcia-Aloy](https://github.com/mar-garcia) (`MsCoreUtils`, `Spectra`)
 - [Laurent Gatto](https://github.com/lgatto) (`Spectra`, `PSMatch`,
   `MsCoreUtils`, `QFeatures`, `MsExperiment`, `MsBackendMgf`, `SpectraVis`,
