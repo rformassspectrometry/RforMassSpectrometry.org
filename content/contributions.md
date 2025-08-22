@@ -42,6 +42,7 @@ in the [main page](https://www.rformassspectrometry.org/).
   `MetaboAnnotation`, `MsCoreUtils`, `Spectra`, `Chromatograms`,
   `MsBackendMetaboLights`, `SpectriPy`)
 - [Pierre Marchal](https://github.com/PiMarchal) (`SpectriPy`)
+- [Ahlam Mentag](https://github.com/Ahlammentag) (`Spectra`)
 - [Thomas Naake](https://github.com/tnaake) (`MsCoreUtils`, `SpectriPy`)
 - [Steffen Neumann](https://github.com/sneumann) (`MsBackendTimsTof`,
   `MsBackendMsp`)
