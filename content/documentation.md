@@ -33,10 +33,17 @@ workshops (tutorials). They usually come with a dedicated
 along with all data and an R installation which includes all required packages
 ensuring full reproducibility.
 
+- [Metabonaut](https://rformassspectrometry.github.io/Metabonaut/): collection
+  of tutorials and workflows for MS-based metabolomics data analysis including
+  a complete end-to-end metabolomics data analysis workflow.
 - [SpectraTutorials](https://jorainer.github.io/SpectraTutorials): provides 3
   tutorials explaining internals, properties and extensions of the
   [Spectra](https://github.com/RforMassSpectrometry/Spectra) package and the
   provided infrastructure to handle and process mass spectrometry data.
+- [xcms4gnps2](https://jorainer.github.io/xcms4gnps2/): example workflow for an
+  *xcms*-based preprocessing of an LC-MS/MS data set and export of the results
+  in a format suitable for *feature based molecular networking* (FBMS) with
+  GNPS.
 - [xcmsTutorials](https://jorainer.github.io/xcmsTutorials): explains general
   mass spectrometry data handling with
   [Spectra](https://github.com/RforMassSpectrometry/Spectra) and analysis of
