@@ -51,6 +51,7 @@ in the [main page](https://www.rformassspectrometry.org/).
   `MetaboAnnotation`, `MetaboCoreUtils`, `Spectra`, `PSMatch`, `CompoundDb`,
   `MsBackendMsp`, `MsCoreUtils`, `SpectraQL`, `MsExperiment`, `MsFeatures`,
   `MsBackendMassbank`, `MsBackendMgf`, `MsBackendSql`, `MsBackendMetaboLights`)
+- [Adriano Rutz](https://github.com/Adafede/) (`MsCoreUtils`)
 - [Liesa Salzer](https://github.com/LiesaSalzer) (`MetaboCoreUtils`)
 - [Nir Shahaf](https://github.com/aharonilab) (`Spectra`, `MetaboAnnotation`)
 - [Sigurdur Smarason](https://github.com/SiggiSmara) (`MsCoreUtils`)
