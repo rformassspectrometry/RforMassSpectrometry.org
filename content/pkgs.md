@@ -144,6 +144,20 @@ data. <a
 href="https://rformassspectrometry.github.io/PTMods">Learn more
 ...</a></p> </div> </div>
 
+
+<div class="package-right">
+<img class="package-image-right" src="/images/hex-MsFeatures.png" alt=""></img>
+<div class="package-info">
+
+<h2>MsFeatures</h2>
+
+<p>The MsFeatures package defines functionality for Mass Spectrometry
+features, including grouping of LC-MS features based on their
+properties such as retention time or signal correlation across
+samples. <a
+href="https://rformassspectrometry.github.io/MsFeatures">Learn more
+...</a></p> </div> </div>
+
 </div>
 
 </div>
