@@ -83,7 +83,7 @@ href="https://rformassspectrometry.github.io/QFeatures">Learn more
 
 
 <div class="package-left">
-<img class="package-image-left" src="/images/hex-RforMassSpectrometry.png" alt=""></img>
+<img class="package-image-left" src="/images/hex-PSMatch.png" alt=""></img>
 <div class="package-info">
 
 <h2>PSMatch</h2>
@@ -130,6 +130,33 @@ more ...</a></p> </div> </div>
 in metabolomics and is independent of any high-level data structures. <a
 href="https://rformassspectrometry.github.io/MetaboCoreUtils">Learn
 more ...</a></p> </div> </div>
+
+
+<div class="package-left">
+<img class="package-image-left" src="/images/hex-PTMods.png" alt=""></img>
+<div class="package-info">
+
+<h2>PTMods</h2>
+
+<p>The PTMods package provides infrastructure to manage and annotate
+post-translational modifications in proteomics mass spectrometry
+data. <a
+href="https://rformassspectrometry.github.io/PTMods">Learn more
+...</a></p> </div> </div>
+
+
+<div class="package-right">
+<img class="package-image-right" src="/images/hex-MsFeatures.png" alt=""></img>
+<div class="package-info">
+
+<h2>MsFeatures</h2>
+
+<p>The MsFeatures package defines functionality for Mass Spectrometry
+features, including grouping of LC-MS features based on their
+properties such as retention time or signal correlation across
+samples. <a
+href="https://rformassspectrometry.github.io/MsFeatures">Learn more
+...</a></p> </div> </div>
 
 </div>
 
