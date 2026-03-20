@@ -50,7 +50,8 @@ in the [main page](https://www.rformassspectrometry.org/).
 - [Johannes Rainer](https://github.com/jorainer) (`MsBackendTimsTof`,
   `MetaboAnnotation`, `MetaboCoreUtils`, `Spectra`, `PSMatch`, `CompoundDb`,
   `MsBackendMsp`, `MsCoreUtils`, `SpectraQL`, `MsExperiment`, `MsFeatures`,
-  `MsBackendMassbank`, `MsBackendMgf`, `MsBackendSql`, `MsBackendMetaboLights`)
+  `MsBackendMassbank`, `MsBackendMgf`, `MsBackendSql`, `MsBackendMetaboLights`, 
+  ...)
 - [Adriano Rutz](https://github.com/Adafede/) (`MsCoreUtils`)
 - [Liesa Salzer](https://github.com/LiesaSalzer) (`MetaboCoreUtils`)
 - [Nir Shahaf](https://github.com/aharonilab) (`Spectra`, `MetaboAnnotation`)
@@ -59,6 +60,8 @@ in the [main page](https://www.rformassspectrometry.org/).
   `MsExperiment`)
 - [Michael Stravs](https://github.com/meowcat/) (`MetaboCoreUtils`,
   `MsBackendMassbank`, `Spectra`)
+- [Gabriele Tomè](https://github.com/gabrieletome) (`RmzTabM`,
+  `MsBackendMassIVE`)
 - [Christophe Vanderaa](https://github.com/cvanderaa) (`QFeatures`,
   `MsCoreUtils`)
 - [Andrea Vicini](https://github.com/andreavicini) (`MsBackendTimsTof`,
