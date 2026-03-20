@@ -25,13 +25,13 @@ in the [main page](https://www.rformassspectrometry.org/).
 - [Tuomas Borman](https://github.com/TuomasBorman) (`MsExperiment`)
 - [Victor Chrone](https://github.com/guldchrone) (`SpectriPy`)
 - [Marilyn De Graeve](https://github.com/mdgrv) (`SpectriPy`)
-- [Guillaume Deflandre](https://github.com/guideflandre) (`PSMatch`, `Spectra`)
+- [Guillaume Deflandre](https://github.com/guideflandre) (`PSMatch`, `Spectra`, `PTMods`)
 - [Mar Garcia-Aloy](https://github.com/mar-garcia) (`MsCoreUtils`, `Spectra`)
-- [Laurent Gatto](https://github.com/lgatto) (`Spectra`, `PSMatch`,
+- [Laurent Gatto](https://github.com/lgatto) (`Spectra`, `PSMatch`, `PTMods`
   `MsCoreUtils`, `QFeatures`, `MsExperiment`, `MsBackendMgf`, `SpectraVis`,
   `MsQuantitation`)
 - [Sebastian Gibb](https://github.com/sgibb) (`MetaboCoreUtils`, `Spectra`,
-  `PSMatch`, `MsCoreUtils`, `SpectraQL`, `MsExperiment`, `MsBackendMgf`)
+  `PSMatch`, `PTMods`, `MsCoreUtils`, `SpectraQL`, `MsExperiment`, `MsBackendMgf`)
 - [Léopold Guyot](https://github.com/leopoldguyot) (`QFeatures`)
 - [Helge Hecht](https://github.com/hechth) (`SpectriPy`)
 - [Nils Hoffmann](https://github.com/nilshoffmann) (`SpectriPy`)
@@ -50,7 +50,7 @@ in the [main page](https://www.rformassspectrometry.org/).
 - [Johannes Rainer](https://github.com/jorainer) (`MsBackendTimsTof`,
   `MetaboAnnotation`, `MetaboCoreUtils`, `Spectra`, `PSMatch`, `CompoundDb`,
   `MsBackendMsp`, `MsCoreUtils`, `SpectraQL`, `MsExperiment`, `MsFeatures`,
-  `MsBackendMassbank`, `MsBackendMgf`, `MsBackendSql`, `MsBackendMetaboLights`, 
+  `MsBackendMassbank`, `MsBackendMgf`, `MsBackendSql`, `MsBackendMetaboLights`,
   ...)
 - [Adriano Rutz](https://github.com/Adafede/) (`MsCoreUtils`)
 - [Liesa Salzer](https://github.com/LiesaSalzer) (`MetaboCoreUtils`)
@@ -70,4 +70,3 @@ in the [main page](https://www.rformassspectrometry.org/).
 - [Michael Witting](https://github.com/michaelwitting/) (`MetaboAnnotation`,
   `MetaboCoreUtils`, `MsBackendMsp`, `MsCoreUtils`, `MsBackendMassbank`,
   `SpectriPy`)
-  
