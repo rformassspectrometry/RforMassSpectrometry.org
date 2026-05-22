@@ -70,3 +70,4 @@ in the [main page](https://www.rformassspectrometry.org/).
 - [Michael Witting](https://github.com/michaelwitting/) (`MetaboAnnotation`,
   `MetaboCoreUtils`, `MsBackendMsp`, `MsCoreUtils`, `MsBackendMassbank`,
   `SpectriPy`)
+- [Muyao Xi](https://github.com/MuyaoXi9271) (`MsCoreUtils`)
